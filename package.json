@@ -1,6 +1,6 @@
 {
   "homepage": "https://tanerengiiin.github.io/GithubFinder",
-  "name": "github-finder",
+  "name": "GithubFinder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
