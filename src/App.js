@@ -11,7 +11,6 @@ import Detail from './Detail';
 import Navbar from './Navbar';
 import Error from './Error';
 import Homepage from './Homepage';
-import PageNotFound from './PageNotFound';
 
 
  
